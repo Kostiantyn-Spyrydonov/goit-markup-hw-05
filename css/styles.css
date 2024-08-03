@@ -696,7 +696,7 @@ hero section */
 }
 
 .agreement-fake-checkbox {
-  display: inline-flex;
+  display: inline-block;
   width: 16px;
   height: 16px;
   border-radius: 2px;
